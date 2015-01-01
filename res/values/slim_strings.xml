@@ -576,16 +576,4 @@
     <string name="battery_saver_title">Warning color</string>
     <string name="battery_saver_style_reset_message">Reset battery saver warning color?</string>
 
-<<<<<<< HEAD
-=======
-    <!-- Doze pulse (ambient display) notification timeout -->
-    <string name="doze_timeout_title">Ambient display timeout</string>
-    <string name="doze_timeout_summary">Time that the screen stays on for notification pulse</string>
-
-    <!-- Doze (ambient display) preference category -->
-    <string name="display_category_doze_options_title">Ambient display options</string>
-    <!-- SuperSU header name - the app hides itself from launcher based on this resource name being present in com.android.settings -->
-    <string name="supersu_title">SuperSU</string>
-
->>>>>>> 2afbf58... Launch SuperSU from Settings
 </resources>
